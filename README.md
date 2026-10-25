@@ -9,11 +9,7 @@
   </tr>
 </table>
 
-## Contributions
-
-<img src="https://ghchart.rshah.org/315f9c/Rhongomiant1227" alt="GitHub contribution activity for Rhongomiant1227" width="100%" />
-
-## 🎮 Playing now
+## 🎮
 
 <table>
   <tr>
