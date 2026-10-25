@@ -1,5 +1,3 @@
-# Rhongomiant1227
-
 ## GitHub activity
 
 <table>
@@ -9,7 +7,7 @@
   </tr>
 </table>
 
-## 🎮
+## 🎮🎮🎮
 
 <table>
   <tr>
