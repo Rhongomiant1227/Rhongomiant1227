@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-        <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Rhongomiant1227&show_icons=true&hide_border=true&bg_color=ffffff&title_color=315f9c&text_color=4b5563&icon_color=2f80ed&cache_seconds=86400" alt="GitHub profile snapshot" width="100%" /></td>
-        <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhongomiant1227&layout=compact&hide_border=true&bg_color=ffffff&title_color=315f9c&text_color=4b5563&cache_seconds=86400" alt="Language mix snapshot" width="100%" /></td>
+        <td width="50%"><img src="./assets/github-stats.svg" alt="GitHub profile snapshot" width="100%" /></td>
+        <td width="50%"><img src="./assets/github-languages.svg" alt="Language mix snapshot" width="100%" /></td>
   </tr>
 </table>
 
