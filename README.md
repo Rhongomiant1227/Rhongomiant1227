@@ -1,23 +1,15 @@
 ## GitHub activity
 
-<table>
-  <tr>
-        <td width="50%"><img src="./assets/github-stats.svg" alt="GitHub profile snapshot" width="100%" /></td>
-        <td width="50%"><img src="./assets/github-languages.svg" alt="Language mix snapshot" width="100%" /></td>
-  </tr>
-</table>
+<picture>
+  <source media="(min-width: 601px)" srcset="./assets/github-activity-desktop.png" />
+  <img src="./assets/github-activity-mobile.png" alt="GitHub public activity and most used languages" width="100%" />
+</picture>
 
 ## 🎮🎮🎮
 
-<table>
-  <tr>
-    <td width="50%"><strong>Honkai Impact 3rd</strong><br /><img src="./assets/hoyo-hi3.svg" alt="Honkai Impact 3rd player card" width="100%" /></td>
-    <td width="50%"><strong>Genshin Impact</strong><br /><img src="./assets/hoyo-gs.svg" alt="Genshin Impact player card" width="100%" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><strong>Honkai: Star Rail</strong><br /><img src="./assets/hoyo-sr.svg" alt="Honkai: Star Rail player card" width="100%" /></td>
-    <td width="50%"><strong>Zenless Zone Zero</strong><br /><img src="./assets/hoyo-zzz.svg" alt="Zenless Zone Zero player card" width="100%" /></td>
-  </tr>
-</table>
+<picture>
+  <source media="(min-width: 601px)" srcset="./assets/hoyo-games-desktop.png" />
+  <img src="./assets/hoyo-games-mobile.png" alt="Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail and Zenless Zone Zero player cards" width="100%" />
+</picture>
 
 <p align="center"><sub>Player cards use publicly available HoYoverse profile data.</sub></p>
